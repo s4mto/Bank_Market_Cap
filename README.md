@@ -1,6 +1,6 @@
-# Data Engineer ETL Assignment
+# Bank Market Cap
 
-Its a Data Engineer Assignment for IBM Data Engineer Certificate. What I did for the assignment;
+Its a Data Engineer ETL Assignment for IBM Data Engineer Certificate. What I did for the assignment;
 
 * Run the ETL process
 * Extract bank and market cap data from the JSON file bank_market_cap.json
